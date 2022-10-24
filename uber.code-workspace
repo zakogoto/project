@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../wordpress"
+		},
+		{
+			"path": "../sass_project_practic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "uber"
+	}
+}
